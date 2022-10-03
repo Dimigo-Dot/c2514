@@ -12,6 +12,6 @@ int main(){
 	dimigoPrint();
 	printf("나의 학년은 ~~ 입니다.\n");
 	dimigoPrint();
-	
+
 	return 0;
 }
